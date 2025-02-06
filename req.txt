@@ -1,0 +1,10 @@
+tensorflow
+matplotlib.pyplot
+pandas
+seaborn
+streamlit
+tensorflow
+numpy
+gdown
+os
+PILLOw
